@@ -8,7 +8,7 @@ This project is **Task 3** of the IRIS Dashboard Challenge: transforming a high-
 ## 🚀 Live Demo  
 A publicly accessible deployment of the IRIS Dashboard:
 
-[▶️ Live Demo](https://example.com)  
+[▶️ Live Demo](https://cinch-cosmic-55154314.figma.site/)  
 
 ---
 
